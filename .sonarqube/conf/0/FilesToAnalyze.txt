@@ -1,0 +1,11 @@
+﻿D:\Devops AssessPractice\WebApiForTestsAndJenkins\WebApiForTestsAndJenkins\WebApiWithController\Controllers\TeacherController.cs
+D:\Devops AssessPractice\WebApiForTestsAndJenkins\WebApiForTestsAndJenkins\WebApiWithController\Models\TeacherModel.cs
+D:\Devops AssessPractice\WebApiForTestsAndJenkins\WebApiForTestsAndJenkins\WebApiWithController\Program.cs
+D:\Devops AssessPractice\WebApiForTestsAndJenkins\WebApiForTestsAndJenkins\WebApiWithController\obj\Debug\net8.0\WebApiWithController.GlobalUsings.g.cs
+D:\Devops AssessPractice\WebApiForTestsAndJenkins\WebApiForTestsAndJenkins\WebApiWithController\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+D:\Devops AssessPractice\WebApiForTestsAndJenkins\WebApiForTestsAndJenkins\WebApiWithController\obj\Debug\net8.0\WebApiWithController.AssemblyInfo.cs
+D:\Devops AssessPractice\WebApiForTestsAndJenkins\WebApiForTestsAndJenkins\WebApiWithController\obj\Debug\net8.0\WebApiWithController.MvcApplicationPartsAssemblyInfo.cs
+D:\Devops AssessPractice\WebApiForTestsAndJenkins\WebApiForTestsAndJenkins\WebApiWithController\appsettings.Development.json
+D:\Devops AssessPractice\WebApiForTestsAndJenkins\WebApiForTestsAndJenkins\WebApiWithController\appsettings.json
+D:\Devops AssessPractice\WebApiForTestsAndJenkins\WebApiForTestsAndJenkins\WebApiWithController\WebApiWithController.http
+D:\Devops AssessPractice\WebApiForTestsAndJenkins\WebApiForTestsAndJenkins\WebApiWithController\Properties\launchSettings.json

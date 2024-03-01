@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>WebApiTeacherProject.test</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Test</ProjectType>
+  <ProjectGuid>441aac84-969e-40ec-b275-69b4b29f4798</ProjectGuid>
+  <FullPath>D:\Devops AssessPractice\WebApiForTestsAndJenkins\WebApiForTestsAndJenkins\WebApiTeacherProject.test\WebApiTeacherProject.test.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="D:\Devops AssessPractice\WebApiForTestsAndJenkins\WebApiForTestsAndJenkins\.sonarqube\conf\1\FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePaths">D:\Devops AssessPractice\WebApiForTestsAndJenkins\WebApiForTestsAndJenkins\.sonarqube\out\1\Issues.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPaths">D:\Devops AssessPractice\WebApiForTestsAndJenkins\WebApiForTestsAndJenkins\.sonarqube\out\1</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+  <TargetFramework>net8.0</TargetFramework>
+</ProjectInfo>

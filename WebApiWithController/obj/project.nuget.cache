@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "1cRBYCjGj/dfob4KA2tsv1afLNRTQOFSUmJGEluwaHcKKwB8jCEW3khtBi834yVPICdiIjqAXIvsGPQ4Uhpp3g==",
+  "dgSpecHash": "5G/WNPi/t4clb74zLm0IRn1XIZnmpCNueUzUDW4AT+m6+JgkogL/2vUSnaufzMTgJ18e2j79SYlWhNPo0Q4GFw==",
   "success": true,
   "projectFilePath": "D:\\Devops AssessPractice\\WebApiForTestsAndJenkins\\WebApiForTestsAndJenkins\\WebApiWithController\\WebApiWithController.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nithya.subramaniyan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\nithya.subramaniyan\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\nithya.subramaniyan\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
     "C:\\Users\\nithya.subramaniyan\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\nithya.subramaniyan\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\nithya.subramaniyan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "JK/FYUmoNML6xY4E4fhAnKxxgYdTSgzscciW4JEy9fGIkWjREFXjzcIASTCr3zg+h4hizV4TR0czzdQttppqqg==",
+  "dgSpecHash": "0nz14qquaUuSwK5OXaeh+XE6gAAziJhoGG1Rh7ln8cCXoG/zkGLufJHZrb1FhHq9e5HFzE9Y0ZjefzkkrCiSJg==",
   "success": true,
   "projectFilePath": "D:\\Devops AssessPractice\\WebApiForTestsAndJenkins\\WebApiForTestsAndJenkins\\WebApiTeacherProject.test\\WebApiTeacherProject.test.csproj",
   "expectedPackageFiles": [
@@ -12,6 +12,7 @@
     "C:\\Users\\nithya.subramaniyan\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\nithya.subramaniyan\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.6.0\\microsoft.testplatform.objectmodel.17.6.0.nupkg.sha512",
     "C:\\Users\\nithya.subramaniyan\\.nuget\\packages\\microsoft.testplatform.testhost\\17.6.0\\microsoft.testplatform.testhost.17.6.0.nupkg.sha512",
+    "C:\\Users\\nithya.subramaniyan\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
     "C:\\Users\\nithya.subramaniyan\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
     "C:\\Users\\nithya.subramaniyan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\nithya.subramaniyan\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
